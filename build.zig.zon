@@ -1,0 +1,12 @@
+.{
+    .name = "zlvgl-example",
+    .version = "0.0.1",
+    .dependencies = .{
+        .zlvgl = .{
+            // .path = "../zlvgl",  
+            .url = "https://github.com/vesim987/zlvgl/archive/3d6687fdfb23bfe760daadfb9e37b42a9b841538.tar.gz",
+            .hash = "12203248291832dc0c61fc6580c3ed69414f9079dbc56756bf47562ec8441a06877e",
+        },
+    },
+}
+
